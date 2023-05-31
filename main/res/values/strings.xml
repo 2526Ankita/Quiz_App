@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QUIZ APP</string>
+    <string name="correct"><b>CORRECTNESS IS</b> \n<b>%1$d</b> OUT OF 8</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">Is this A for Apple?</string>
+    <string name="b">We do shopping here?</string>
+    <string name="c">We cut it on birthday?</string>
+    <string name="d">Ash pokemon is Pikachu?</string>
+    <string name="e">1+1 is this ?</string>
+    <string name="f">Is this a non-living thing?</string>
+    <string name="g">Sun is a celestial body?</string>
+    <string name="h">This is a big balloon.</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+    <string name="true_button_description">True button</string>
+    <string name="false_button_description">False button</string>
+    <string name="prev_button_description">Previous button</string>
+    <string name="next_button_description">Next button</string>
+    <string name="myimage_description">Image for question</string>
+    <string name="quiz_app">Quiz App</string>
+</resources>
